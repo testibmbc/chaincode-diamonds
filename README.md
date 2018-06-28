@@ -1,2 +1,1 @@
 # chaincode-diamonds
-# chaincode-diamonds
